@@ -6,7 +6,7 @@ Każdy wpis jest przechowywany jako plik Markdown i dynamicznie konwertowany do 
 
 ---
 
-## 📌 Funkcjonalności
+##  Funkcjonalności
 
 - Przeglądanie wpisów encyklopedii pod adresem `/wiki/TITLE`
 - Tworzenie nowych stron encyklopedii
@@ -20,7 +20,7 @@ Każdy wpis jest przechowywany jako plik Markdown i dynamicznie konwertowany do 
 
 ---
 
-## 🧩 Jak działa aplikacja
+##  Jak działa aplikacja
 
 - Wpisy są zapisywane jako pliki Markdown na dysku
 - Treść jest dynamicznie ładowana przez Django
@@ -30,7 +30,7 @@ Każdy wpis jest przechowywany jako plik Markdown i dynamicznie konwertowany do 
 
 ---
 
-## 🛠️ Technologie
+##  Technologie
 
 - Python
 - Django
@@ -39,7 +39,7 @@ Każdy wpis jest przechowywany jako plik Markdown i dynamicznie konwertowany do 
 
 ---
 
-## 📁 Struktura projektu
+##  Struktura projektu
 
 - `encyclopedia/` – logika aplikacji (widoki, routing)
 - `entries/` – pliki Markdown z wpisami
